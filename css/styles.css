@@ -31,4 +31,11 @@ html,body{
   img{
     border: 2px solid whitesmoke;
   }
+  
+  .footer-link li a{
+      text-decoration:none;
+}
 
+  .footer-link li a:hover{
+      color: #2c3e50;     
+}
