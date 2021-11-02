@@ -1,8 +1,10 @@
 html,body{
+    
     padding: 0;
     margin: 0;
       width:100%;
     background-color: #f1c40f;
+    line-height: 25px;
   }
   
   h1, h2, h3{
@@ -29,3 +31,4 @@ html,body{
   img{
     border: 2px solid whitesmoke;
   }
+
